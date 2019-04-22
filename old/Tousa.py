@@ -1,3 +1,5 @@
+#https://yukicoder.me/problems/no/299
+
 def tousa(initPageVal, r, N):
     an=initPageVal
     for num in range(N-1):
