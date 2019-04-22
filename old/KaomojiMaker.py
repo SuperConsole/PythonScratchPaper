@@ -1,4 +1,5 @@
 #https://yukicoder.me/problems/no/591
+
 def KaomojiMaker(prtEye, prtLip):
     print("("+str(prtEye)+str(prtLip)+str(prtEye)+")/")
 
