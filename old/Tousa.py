@@ -1,4 +1,7 @@
-#https://yukicoder.me/problems/no/299
+#
+#   No.299 蟻本が読めない
+#   https://yukicoder.me/problems/no/299
+#
 
 def tousa(initPageVal, r, N):
     an=initPageVal

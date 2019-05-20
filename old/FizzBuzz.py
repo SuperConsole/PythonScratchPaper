@@ -1,3 +1,7 @@
+#
+#   just FizzBuzz
+#
+
 def FizzBuzz(num, maxNum):
     if num%15  ==  0:
         print(str(num) + " FizzBuzz")

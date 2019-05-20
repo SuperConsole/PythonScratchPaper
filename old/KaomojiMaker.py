@@ -1,4 +1,7 @@
-#https://yukicoder.me/problems/no/591
+#
+#   No.591 (^o^)/
+#   https://yukicoder.me/problems/no/591
+#
 
 def KaomojiMaker(prtEye, prtLip):
     print("("+str(prtEye)+str(prtLip)+str(prtEye)+")/")
