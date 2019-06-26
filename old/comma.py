@@ -14,5 +14,5 @@ def comma(N):
 
 
 if __name__ == "__main__":
-    N='30000000'
+    N=input('N: ')
     print(comma(N))
