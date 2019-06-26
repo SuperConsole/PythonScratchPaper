@@ -16,5 +16,6 @@ def FizzBuzz(num, maxNum):
         FizzBuzz(num+1, maxNum)
 
 if __name__ == "__main__":
-    iter = [1300, 1350]
-    FizzBuzz(iter[0], iter[-1])
+    start = input('start: ')
+    end = input('end: ')
+    FizzBuzz(int(start), int(end))
